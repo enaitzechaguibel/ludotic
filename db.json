@@ -9,7 +9,7 @@
     { "id": 7, "date": "22/02/2018", "winner": "Pit" },
     { "id": 8, "date": "24/02/2018", "winner": "Antuan" },
     { "id": 9, "date": "27/02/2018", "winner": "Antuan" }
-  ],
+  ]
   
   "profile": {
     "name": "typicode"
