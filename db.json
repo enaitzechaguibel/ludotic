@@ -1,38 +1,16 @@
 {
- 
-  "players": [
-  {
-    "id": 1,
-    "name": "Piter Otul",
-    "username": "Pit",
-    "email": "potul@ludotic.cat"
-    },
-    {
-    "id": 2,
-    "name": "Rita Jeybur",
-    "username": "Rita",
-    "email": "rjeybur@ludotic.cat"
-    },
-    {
-    "id": 3,
-    "name": "Anzoni Cuin",
-    "username": "Antuan",
-    "email": "aduin@ludotic.cat"
-    },
-    {
-    "id": 4,
-    "name": "Deivit Niven",
-    "username": "Deiv",
-    "email": "dniven@ludotic.cat"
-    },
-    {
-    "id": 5,
-    "name": "Tayron Pober",
-    "username": "Tay",
-    "email": "tpober@ludotic.cat"
-    }
-   
-],
+  "partides": [
+    { "id": 1, "date": "10/02/2018", "winner": "Pit" },
+    { "id": 2, "date": "10/02/2018", "winner": "Rita" },
+    { "id": 3, "date": "13/02/2018", "winner": "Pit" },
+    { "id": 4, "date": "17/02/2018", "winner": "Tay" },
+    { "id": 5, "date": "18/02/2018", "winner": "Tay" },
+    { "id": 6, "date": "18/02/2018", "winner": "Rita" },
+    { "id": 7, "date": "22/02/2018", "winner": "Pit" },
+    { "id": 8, "date": "24/02/2018", "winner": "Antuan" },
+    { "id": 9, "date": "27/02/2018", "winner": "Antuan" }
+  ],
+  
   "profile": {
     "name": "typicode"
   }
